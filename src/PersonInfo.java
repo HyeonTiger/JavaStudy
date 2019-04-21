@@ -2,7 +2,6 @@
 public class PersonInfo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		/*
 	    개인정보 출력 예제.
 	    

@@ -1,7 +1,7 @@
 
 public class PersonInfo {
 
-	public static void main(String[] args) {
+	public static void showPersonInfo() {
 		/*
 	    개인정보 출력 예제.
 	    
